@@ -1,10 +1,9 @@
-# Matplotlib_Animate
-Multiple graphs with python matplotlib.
 import random
 from itertools import count
 import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
+from matplotlib.animation 
+import FuncAnimation
 
 plt.style.use('fivethirtyeight')
 
